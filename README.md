@@ -1,4 +1,4 @@
-Figma UI/UX Learning and Development Roadmap body { font-family: Arial, sans-serif; margin: 0; padding: 0; } .container { max-width: 1200px; margin: 0 auto; padding: 50px; } h1 { font-size: 36px; margin-bottom: 30px; } h2 { font-size: 24px; margin-bottom: 20px; } p { font-size: 16px; line-height: 1.5; margin-bottom: 20px; } ul { margin-bottom: 20px; } li { margin-bottom: 10px; } img { max-width: 100%; } .flowchart { display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 50px; } .flowchart-item { flex-basis: 33%; padding: 20px; text-align: center; } .flowchart-item:hover { background-color: #eee; cursor: pointer; }
+
 
 Figma UI/UX Learning and Development Roadmap
 ============================================
